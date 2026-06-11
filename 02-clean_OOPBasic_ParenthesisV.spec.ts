@@ -134,5 +134,10 @@ test.describe("diagnose()", () => {
   });
 });
 
-// adding comments to new GitBranch
+// adding comments to new GitBranch --- Adding conflict
+// adding conflitc with Merge
+// adding conflitc with Merge
+// adding conflitc with Merge
+// adding conflitc with Merge
+// adding conflitc with Merge
 
