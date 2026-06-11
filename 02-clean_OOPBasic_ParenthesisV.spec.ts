@@ -135,9 +135,6 @@ test.describe("diagnose()", () => {
 });
 
 // adding comments to new GitBranch
-// adding conflitc with Merge
-// adding conflitc with Merge
-// adding conflitc with Merge
-// adding conflitc with Merge
-// adding conflitc with Merge
 
+
+// --- adding coments for GitBranch ---
